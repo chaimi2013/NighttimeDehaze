@@ -6,7 +6,7 @@ The code has been tested on Win7/10 with Opencv 2.7.
 ## Installation
 Please install opencv 2.4.9 (or copy "opencv_core249.dll" "opencv_highgui249.dll " "opencv_imgproc249.dll" from "OPENCV_DIR/build/x64/vc10/bin/" to the same directory with "NighttimeDehaze.exe") before running this code.
 
-Then, run the executable code as: "NighttimeDehaze.exe input.bmp", where "input.bmp" is the input nighttime hazy image, the output dehazed result is named as "name_J.bmp".
+Then, run the executable code as: "NighttimeDehaze.exe name.bmp", where "name.bmp" is the input nighttime hazy image, the output dehazed result is named as "name_J.bmp".
 
 ## Folder Structure
     NighttimeDehaze
