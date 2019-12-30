@@ -42,6 +42,30 @@ Please cite our paper in your publications if it helps your research:
 		booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 		year = {2017}
 	}
+[2]. Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images. [FPC-Net: Project, ](https://chaimi2013.github.io/Research/FPC/index.html)
+    [FPC-Net: github](https://github.com/chaimi2013/FPCNet)
+    
+    @inproceedings{zhang2018fpcnet,
+      title={Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images},
+      author={Zhang, Jing and Cao, Yang and Wang, Yang and Wen, Chenglin and Chen, Chang Wen},
+      booktitle={ACM Multimedia Conference},
+      year={2018}
+    }
+[3]. FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network. [FAMED-Net: Project, ](https://chaimi2013.github.io/Research/FAMED-Net/)
+    [FAMED-Net: github](https://github.com/chaimi2013/FAMED-Net)
+    
+    @article{zhang2019famednet, 
+        author={Zhang, Jing and Tao, Dacheng}, 
+        journal={IEEE Transactions on Image Processing}, 
+        title={FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network}, 
+        year={2019}, 
+        volume={}, 
+        number={}, 
+        pages={1-1}, 
+        doi={10.1109/TIP.2019.2922837}, 
+        ISSN={1057-7149}, 
+        month={}
+    }
 
 ## Contact
 [Email](zj.winner@163.com)
