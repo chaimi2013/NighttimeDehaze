@@ -1,5 +1,5 @@
 # NighttimeDehaze
-[Nighttime Haze Removal Based on a New Imaging Model](https://chaimi2013.github.io/Research/NighttimeDehazing_ICIP2014/index.html)
+[Nighttime Haze Removal Based on a New Imaging Model](https://chaimi2013.github.io/Research/NighttimeDehazing_ICIP2014/index.html), ICIP 2014.
 
 The code has been tested on Win7/10 with Opencv 2.7.
 
