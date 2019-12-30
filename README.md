@@ -33,13 +33,13 @@ Please cite our paper in your publications if it helps your research:
     
     
 ## Related Work
-[1]. Fast Haze Removal for Nighttime Image Using Maximum Reflectance Prior. [MRP_CVPR: Project,](https://chaimi2013.github.io/Research/NighttimeDehazing/index.html)
+[1]. Fast Haze Removal for Nighttime Image Using Maximum Reflectance Prior, CVPR 2017. [MRP_CVPR: Project,](https://chaimi2013.github.io/Research/NighttimeDehazing/index.html)
     [MRP_CVPR: github](https://github.com/chaimi2013/MRP)
     
-[2]. Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images. [FPC-Net: Project, ](https://chaimi2013.github.io/Research/FPC/index.html)
+[2]. Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images, ACM MM 2018. [FPC-Net: Project, ](https://chaimi2013.github.io/Research/FPC/index.html)
     [FPC-Net: github](https://github.com/chaimi2013/FPCNet)
     
-[3]. FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network. [FAMED-Net: Project, ](https://chaimi2013.github.io/Research/FAMED-Net/)
+[3]. FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network, T-IP, 2020. [FAMED-Net: Project, ](https://chaimi2013.github.io/Research/FAMED-Net/)
     [FAMED-Net: github](https://github.com/chaimi2013/FAMED-Net)
 
 ## Contact
