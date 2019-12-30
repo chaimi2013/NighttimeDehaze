@@ -39,7 +39,7 @@ Please cite our paper in your publications if it helps your research:
 [2]. Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images, ACM MM 2018. [FPC-Net: Project, ](https://chaimi2013.github.io/Research/FPC/index.html)
     [FPC-Net: github](https://github.com/chaimi2013/FPCNet)
     
-[3]. FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network, T-IP, 2020. [FAMED-Net: Project, ](https://chaimi2013.github.io/Research/FAMED-Net/)
+[3]. FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network, T-IP, 2019. [FAMED-Net: Project, ](https://chaimi2013.github.io/Research/FAMED-Net/)
     [FAMED-Net: github](https://github.com/chaimi2013/FAMED-Net)
 
 ## Contact
